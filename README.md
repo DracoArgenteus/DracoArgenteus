@@ -1,6 +1,6 @@
 Digital alchemist turning coffee into quantum chemistry simulations ☕ → 🧪
 
-🎓 Nanoscience MSc Student | University of Copenhagen
+🎓 Nanoscience MSc Student @ University of Copenhagen
 
 🔬 Computational Chemistry | Machine Learning | Ab initio INS
 
